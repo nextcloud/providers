@@ -9,6 +9,16 @@ You can leave comments on your experiences with the providers or ask questions i
 | ------------- | ------------- | -- |------------- |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/hkn.jpg) | :de: | ❌ | [HKN GmbH](https://www.hkn.de/nextcloud-server.php) We are a specialist for fully managed Nextcloud-Servers hosted in Germany with german privacy protection. |
 |  ![](https://raw.githubusercontent.com/nextcloud/providers/master/logos/thegoodcloud.png) | 🇦🇹 :uk: | ✔️ | [thegood.cloud](https://thegood.cloud) Store, sync and share without compromising your privacy! Online office with Collabora optional. Hosted on our own hardware in Amsterdam. |
+| ![](https://github.com/nextcloud/providers/raw/master/logos/nobugs.png) | :de: | ❌ |  [nobugs IT GmbH](https://www.nobugs.gmbh/at/Service_NCS.html) Ein Dienst der auf Ihr Unternehmen zugeschnitten ist und Zahlreiche Erweiterungsöglichkeiten bietet. Rechenzentren nach ISO 27001 in Österreich. |
 
 ## Instructions to add a provider:
-Create a PR which adds logo (600x150, png or jpg) and other info to the table above. Do it in alphabetical order please. Somebody will review and approve, or tell you what to fix.
+Create a PR which adds the information as you see above. Requirements:
+* Logo: 600x150, png or jpg
+* description: up to 150 characters. Provide USEFUL information, not blah blah. Example descriptions:
+    * good: “We offer Swiss-hosted servers with daily off-site backup. You can install Nextcloud apps, Talk, Calendar and Contacts included"
+    * bad: “Awesome, Inc. is a successful hosting firm founded on solid engineering principles and is a leading provider of open source solutions.”
+* add new entries in alphabetical order
+* Use English for your description
+* don't abuse the nextcloud trademark (you can't use our logo unless you have obtained permission to do so, see [nextcloud.com/trademarks.](nextcloud.com/trademarks)
+
+Somebody will review and approve, or tell you what to fix.
