@@ -7,7 +7,8 @@ You can leave comments on your experiences with the providers or ask questions i
 
 | Logo          | Languages     | Free plan? | description   |
 | ------------- | ------------- | -- |------------- |
-|  ![](https://raw.githubusercontent.com/nextcloud/providers/master/logos/thegoodcloud.png) | 🇦🇹 :uk: | ✔️ | [thegood.cloud](https://thegood.cloud) Store, sync and share without compromising your privacy! Online office with Collabora optional. Hosted on our own hardware in Amsterdam. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/hkn.jpg) | :de: | ❌ | [HKN GmbH](https://www.hkn.de/nextcloud-server.php) We are a specialist for fully managed Nextcloud-Servers hosted in Germany with german privacy protection. |
+|  ![](https://raw.githubusercontent.com/nextcloud/providers/master/logos/thegoodcloud.png) | 🇦🇹 :uk: | ✔️ | [thegood.cloud](https://thegood.cloud) Store, sync and share without compromising your privacy! Online office with Collabora optional. Hosted on our own hardware in Amsterdam. |
 
-
+## Instructions to add a provider:
+Create a PR which adds logo (600x150, png or jpg) and other info to the table above. Do it in alphabetical order please. Somebody will review and approve, or tell you what to fix.
