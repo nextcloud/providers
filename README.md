@@ -21,6 +21,6 @@ Create a PR which adds the information as you see above. Requirements:
     * bad: “Awesome, Inc. is a successful hosting firm founded on solid engineering principles and is a leading provider of open source solutions.”
 * add new entries in alphabetical order
 * Use English for your description
-* don't abuse the nextcloud trademark (you can't use our logo unless you have obtained permission to do so, see [nextcloud.com/trademarks.](nextcloud.com/trademarks)
+* don't abuse the nextcloud trademark (you can't use our logo unless you have obtained permission to do so, see [nextcloud.com/trademarks/](https://nextcloud.com/trademarks/).
 
 Somebody will review and approve, or tell you what to fix.
