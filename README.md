@@ -1,5 +1,5 @@
-# providers
-community-maintained list of Nextcloud providers
+# Providers
+Community-maintained list of Nextcloud providers
 
 **If you quickly want to sign up to a reliable Nextcloud provider that gives at least 2GB of free, unlimited storage, you can use our [simple signup](https://nextcloud.com/signup) program where we select a provider for you based on your location.**
 
@@ -16,11 +16,11 @@ You can leave comments on your experiences with the providers or ask questions i
 ## Instructions to add a provider:
 Create a PR which adds the information as you see above. Requirements:
 * Logo: 600x150, png or jpg
-* description: up to 150 characters. Provide USEFUL information, not blah blah. Example descriptions:
+* Description: up to 150 characters. Provide USEFUL information, not blah blah. Example descriptions:
     * good: “We offer Swiss-hosted servers with daily off-site backup. You can install Nextcloud apps, Talk, Calendar and Contacts included"
     * bad: “Awesome, Inc. is a successful hosting firm founded on solid engineering principles and is a leading provider of open source solutions.”
-* add new entries in alphabetical order
+* Add new entries in alphabetical order
 * Use English for your description
-* don't abuse the nextcloud trademark (you can't use our logo unless you have obtained permission to do so, see [nextcloud.com/trademarks/](https://nextcloud.com/trademarks/).
+* Don't abuse the nextcloud trademark (you can't use our logo unless you have obtained permission to do so, see [nextcloud.com/trademarks/](https://nextcloud.com/trademarks/).
 
 Somebody will review and approve, or tell you what to fix.
