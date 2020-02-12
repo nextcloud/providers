@@ -13,6 +13,7 @@ You can leave comments on your experiences with the providers or ask questions i
 | ![](https://github.com/nextcloud/providers/raw/master/logos/hkn.jpg) | :de: | ❌ | [HKN GmbH](https://www.hkn.de/nextcloud-server.php) We are a specialist for fully managed Nextcloud-Servers hosted in Germany with german privacy protection. |
 |  ![](https://raw.githubusercontent.com/nextcloud/providers/master/logos/thegoodcloud.png) | 🇦🇹 :uk: | ✔️ | [thegood.cloud](https://thegood.cloud) Store, sync and share without compromising your privacy! Online office with Collabora optional. Hosted on our own hardware in Amsterdam. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/nobugs.png) | :de: | ❌ |  [nobugs IT GmbH](https://www.nobugs.gmbh/at/Service_NCS.html) Ein Dienst der auf Ihr Unternehmen zugeschnitten ist und Zahlreiche Erweiterungsöglichkeiten bietet. Rechenzentren nach ISO 27001 in Österreich. |
+| ![](https://github.com/nextcloud/providers/raw/master/logos/semantica.png) | :it: | ✔️ | [Semantica](https://www.s7a.it/products_cloudsystem) - Managed Nextcloud Server hosted in Italy with backup and Collabora Online. App customization and development. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/startupstack.png) | :us: | ❌ | [Startup Stack](https://startupstack.tech) Private managed servers including ONLYOFFICE, Talk, anti-virus, and LDAP integration. Daily backups. Up to 10TB storage. Choice of 7 host countries. |
 
 ## Instructions to add a provider:
