@@ -9,6 +9,8 @@ You can leave comments on your experiences with the providers or ask questions i
 
 | Logo          | Languages     | Free plan? | description   |
 | ------------- | ------------- | -- |------------- |
+| ![](https://github.com/alfabg/providers/blob/master/logos/logo_transparent.png) | :gb: :bg: | ✔️ | [alfacloud.biz](https://www.alfacloud.biz) AlfaCloud offers everything you need for GDPR compliance.
+Using the nextcloud simplifies compliance and reduces business risk and costs. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/www.cloudu.de.png) | :de: :gb: :us: | ❌ | [www.cloudu.de](https://www.cloudu.de) Since 2013 we offer German-hosted cloud storage with daily external server backup for premium security. With german privacy protection. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/gwc_systems.png) | :de: :austria: :switzerland: | ❌ | [GWC-Systems](https://gwc-systems.de) bietet vollumfängliches managed Nextcloud Hosting seit 2016 an. DSGVO konform und sicher. Von zertifizierten Datenschutzbeauftragten für Privat- als auch für Firmenkunden.  |
 | ![](https://user-images.githubusercontent.com/9932751/77157559-e572b400-6aa1-11ea-99de-ed0e5b8210ac.jpg) | :de: :austria: :switzerland: | ❌ | [JABA e.K.](https://www.jaba.hosting/nextcloud/) bietet fully-managed Nextcloud Hosting mit Collabora Online für Privat- oder Firmenkunden. |
