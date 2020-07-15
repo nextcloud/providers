@@ -9,7 +9,6 @@ You can leave comments on your experiences with the providers or ask questions i
 
 | Logo          | Languages     | Free plan? | description   |
 | ------------- | ------------- | -- |------------- |
-| ![](https://github.com/alfabg/providers/blob/master/logos/logo_transparent.png) | :gb: :bulgaria: | ✔️ | [alfacloud.biz](https://www.alfacloud.biz) AlfaCloud offers everything you need for GDPR compliance. Using the nextcloud simplifies compliance and reduces business risk and costs. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/www.cloudu.de.png) | :de: :gb: :us: | ❌ | [www.cloudu.de](https://www.cloudu.de) Since 2013 we offer German-hosted cloud storage with daily external server backup for premium security. With german privacy protection. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/cloudharmonize.png) | :uk: :us:| ❌ | [CloudHarmonize](https://cloudharmonize.com) We offer managed AWS hosted Nextcloud servers with low-cost S3 object storage as primary storage. Admin control. Choice of 4 regions. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/demindo.png)  | :netherlands: | ❌ | [Demindo](https://demindo.com) offers Nextcloud hosting in the Netherlands for individuals as well as businesses. Our plans include free ssl, daily backups, Collabora Online and more. | 
