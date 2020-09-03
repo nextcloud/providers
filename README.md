@@ -44,4 +44,4 @@ Create a PR which adds the information as you see above. Requirements:
 * Use English for your description
 * Don't abuse the nextcloud trademark (you can't use our logo unless you have obtained permission to do so, see [nextcloud.com/trademarks/](https://nextcloud.com/trademarks/).
 
-Somebody will review and approve, or tell you what to fix.
+Somebody will review and approve, or tell you what to fix. *Note that that somebody can be a community volunteer. Nobody should ever ask you for access to your services or servers in any way - as that is not relevant for checking if you follow our trademark guidelines...*
