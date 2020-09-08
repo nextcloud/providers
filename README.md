@@ -19,6 +19,7 @@ You can leave comments on your experiences with the providers or ask questions i
 | ![](https://github.com/nextcloud/providers/raw/master/logos/semantica.png) | :it: | ✔️ | [Semantica](https://www.s7a.it/products_cloudsystem) - Managed Nextcloud Server hosted in Italy with backup and Collabora Online. App customization and development. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/spryservers.png) | :us: | ✔️ |[Spry Servers](https:/www.spryservers.net/nextcloud) Reliable provider of everything from instant, single-user Nextcloud accounts to highly customized enterprise deployments. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/startupstack.png) | :us: | ❌ | [Startup Stack](https://startupstack.tech) Private managed servers including ONLYOFFICE, Talk, anti-virus, and LDAP integration. Daily backups. Up to 10TB storage. Choice of 7 host countries. |
+| ![](https://github.com/nextcloud/providers/raw/master/logos/webhosting4u.png) | EL | ❌ | [WebHosting4U](https://webhosting4u.gr) Managed dedicated nextcloud instances with 100/100mbps bandwith, unmetered traffic, starting from 2TB, daily backups, all features included. |
 
 
 ## Instructions to add a provider:
