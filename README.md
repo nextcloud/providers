@@ -32,6 +32,7 @@ You can leave comments on your experiences with the providers or ask questions i
 | ![](https://github.com/nextcloud/providers/raw/master/logos/startupstack.png) | :us: | ❌ | [Startup Stack](https://startupstack.tech/) Private managed servers including ONLYOFFICE, Talk, anti-virus, and LDAP integration. Daily backups. Up to 10TB storage. Choice of 7 host countries. |
 | ![](https://raw.githubusercontent.com/nextcloud/providers/master/logos/thegoodcloud.png) | :netherlands: :uk: | ✔️ | [thegood.cloud](https://thegood.cloud) Store, sync and share without compromising your privacy! Online office with Collabora optional. Hosted on our own hardware in Amsterdam. |
 | ![](logos/yourcloud-asia-banner-600x150-6.png) | :us: | ❌ | [yourcloud Asia](https://yourcloud.asia/) Managed cloud hosting and support services, using ownCloud and Nextcloud software, on your hardware. Cloud hosting, on your terms! |
+| ![](https://gentoolink.com/sites/default/files/gws_banner.png) | :ca: :us: | ❌ | [Gentoolink Web Services](https://gentoolink.com) We offer Canadian hosted servers with daily server backups. You can install Nextcloud apps, Talk, Calendar and Contacts included. AWS servers located in Canada or USA. |
 
 
 ## Instructions to add a provider:
