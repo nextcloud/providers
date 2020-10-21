@@ -31,8 +31,10 @@ You can leave comments on your experiences with the providers or ask questions i
 | ![](https://github.com/nextcloud/providers/raw/master/logos/spryservers.png) | :us: | ✔️ |[Spry Servers](https://www.spryservers.net/sprycloud) Reliable provider of everything from instant, single-user Nextcloud accounts to highly customized enterprise deployments. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/startupstack.png) | :us: | ❌ | [Startup Stack](https://startupstack.tech/) Private managed servers including ONLYOFFICE, Talk, anti-virus, and LDAP integration. Daily backups. Up to 10TB storage. Choice of 7 host countries. |
 | ![](https://raw.githubusercontent.com/nextcloud/providers/master/logos/thegoodcloud.png) | :netherlands: :uk: | ✔️ | [thegood.cloud](https://thegood.cloud) Store, sync and share without compromising your privacy! Online office with Collabora optional. Hosted on our own hardware in Amsterdam. |
+| ![](https://github.com/nextcloud/providers/raw/master/logos/webhosting4u.png) | :el: | ❌ | [WebHosting4U](https://webhosting4u.gr) Managed dedicated nextcloud instances with 100/100mbps bandwith, unmetered traffic, starting from 2TB, daily backups, all features included. |
 | ![](logos/yourcloud-asia-banner-600x150-6.png) | :us: | ❌ | [yourcloud Asia](https://yourcloud.asia/) Managed cloud hosting and support services, using ownCloud and Nextcloud software, on your hardware. Cloud hosting, on your terms! |
 | ![](https://gentoolink.com/sites/default/files/gws_banner.png) | :canada: :us: | ✔️ | [Gentoolink Web Services](https://gentoolink.com) We offer Canadian hosted servers with daily server backups. We can install Nextcloud apps, Talk, Calendar and Contacts included. AWS servers located in Canada or USA. Fully managed. |
+
 
 
 ## Instructions to add a provider:
