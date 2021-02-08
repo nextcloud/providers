@@ -2,7 +2,7 @@
 
 Community maintained list of Nextcloud providers
 
-**If you quickly want to sign up to a reliable Nextcloud provider that gives at least 2GB of free, unlimited storage, you can use our [simple signup](https://nextcloud.com/signup/) program where we select a provider for you based on your location.**
+**If you quickly want to sign up to a reliable Nextcloud provider that gives at least 2GB of free, unmetered storage (without any time limit), you can use our [simple signup](https://nextcloud.com/signup/) program where we select a provider for you based on your location.**
 
 Please note that we have no formal relationship with any of these providers and take no responsibility for their services or quality. If you want to be sure to get quality service with the backing of Nextcloud engineers, get in [contact with us](https://nextcloud.com/enterprise/buy/) or [one of our partners.](https://nextcloud.com/partners/)
 
