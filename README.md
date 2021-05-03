@@ -37,7 +37,7 @@ You can leave comments on your experiences with the providers or ask questions i
 | ![](https://github.com/nextcloud/providers/raw/master/logos/webhosting4u.png) | :el: | ❌ | ✔️ | [WebHosting4U](https://webhosting4u.gr) Managed dedicated nextcloud instances with 100/100mbps bandwith, unmetered traffic, starting from 2TB, daily backups, all features included. |
 | ![](logos/yourcloud-asia-banner-600x150-6.png) | :us: | ❌ | ❌ | [yourcloud Asia](https://yourcloud.asia/) Managed cloud hosting and support services, using ownCloud and Nextcloud software, on your hardware. Cloud hosting, on your terms! |
 | ![](https://gentoolink.com/sites/default/files/gws_banner.png) | :canada: :us: | ✔️ | ✔️ | [Gentoolink Web Services](https://gentoolink.com) We offer Canadian hosted servers with daily server backups. We can install Nextcloud apps, Talk, Calendar and Contacts included. AWS servers located in Canada or USA. Fully managed. |
-
+| ![](logos/cloud-Zaclys-v2.png) | :fr: :us: :gb: | ✔️ | ✔️ | [Zaclys.com](https://www.zaclys.com/) - Ethical and open source web services for individuals and professionals. Cloud, OnlyOffice, Mail, visio and more. |
 
 
 ## Instructions to add a provider:
