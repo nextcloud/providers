@@ -1,3 +1,4 @@
+![domedia-logo-big](https://user-images.githubusercontent.com/3164888/136651145-4f32e278-fa0d-472c-bbbc-0a08451e1854.png)
 # Providers
 
 Community maintained list of Nextcloud providers
@@ -16,6 +17,7 @@ You can leave comments on your experiences with the providers or ask questions i
 | ![](https://github.com/nextcloud/providers/raw/master/logos/www.cloudu.de.png) | :de: :gb: :us: | ❌ | ✔️ | [www.cloudu.de](https://www.cloudu.de) Since 2013 we offer German-hosted cloud storage with daily external server backup for premium security. With German privacy protection. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/commonscloud.png) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Icona_bandera_Catalunya.png/16px-Icona_bandera_Catalunya.png) :es: :uk: | ❌ | ❌ | [CommonsCloud](https://commonscloud.coop) A cooperative cloud based on community self-management and ethical principles. Includes LibreOffice Online and SSO with other CommonsCloud services. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/demindo.png)  | :netherlands: | ❌ | ✔️ | [Demindo](https://demindo.com) offers Nextcloud hosting in the Netherlands for individuals as well as businesses. Our plans include free ssl, daily backups, Collabora Online and more. |
+| ![](https://user-images.githubusercontent.com/3164888/136651145-4f32e278-fa0d-472c-bbbc-0a08451e1854.png)  | :fr: | ❌ | ✔️ | [Domedia](https://c.domedia.net/hosting) Linux based hosting (France). Free SSL, 24/24 email support, reseller accounts, unlimited traffic,automatic daily backup. Flexible Nextcloud hosting. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/gwc_systems.png) | :de: :austria: :switzerland: | ❌ | ✔️ | [GWC-Systems](https://gwc-systems.de) bietet vollumfängliches managed Nextcloud Hosting seit 2016 an. DSGVO konform und sicher. Von zertifizierten Datenschutzbeauftragten für Privat- als auch für Firmenkunden.  |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/hkn.jpg) | :de: | ❌ | ❌ | [HKN GmbH](https://www.hkn.de/nextcloud-server.php) We are a specialist for fully managed Nextcloud-Servers hosted in Germany with german privacy protection. |
 | ![](logos/hosting.de.png) | :de: :gb: :us: :tr: | ✔️ | ✔️ | [hosting.de GmbH](https://hosting.de) As an official Nextcloud Gold Partner we provide fully Managed Nextcloud hosting and premium support. All Nextcloud installations are hosted in our own datacenters located in Germany (GDPR / DSGVO compliant). |
