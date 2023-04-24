@@ -46,6 +46,7 @@ You can leave comments on your experiences with the providers or ask questions i
 | ![](https://gentoolink.com/sites/default/files/gws_banner.png) | :canada: :us: | ✔️ | ✔️ | [Gentoolink Web Services](https://gentoolink.com) We offer Canadian hosted servers with daily server backups. We can install Nextcloud apps, Talk, Calendar and Contacts included. AWS servers located in Canada or USA. Fully managed. |
 | ![](logos/cloud-Zaclys-v2.png) | :fr: :us: :gb: | ✔️ | ✔️ | [Zaclys.com](https://www.zaclys.com/) - Ethical and open source web services for individuals and professionals. Cloud, OnlyOffice, Mail, Visio and more. |
 | ![](https://user-images.githubusercontent.com/551757/148070249-382050bc-c262-4ff7-9802-c46278011239.jpg) | :es: :uk: | ❌ | [CSR-Online](https://www.csr-online.net/), in its effort to simplify the day to day of our customers, manages totally or in part the integration of their systems in the Data Center of your choice, you inform us of your needs, we advise you and we make them a reality. |
+| ![](https://github.com/nextcloud/providers/raw/master/logos/ciridata-logo-600x150.png) | :de: :gb: :us: | ✔️ | ✔️ | [Ciridata](https://www.ciridata.com/) Managed Nextcloud hosted in Germany with affordable prices. Up to 20TB and daily backups. SFTP server. GDPR ready. |
 
 
 
