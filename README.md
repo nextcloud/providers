@@ -1,4 +1,3 @@
-![domedia-logo-big](https://user-images.githubusercontent.com/3164888/136651145-4f32e278-fa0d-472c-bbbc-0a08451e1854.png)
 # Providers
 
 Community maintained list of Nextcloud providers
