@@ -10,6 +10,7 @@ You can leave comments on your experiences with the providers or ask questions i
 
 | Logo          | Languages     | Free plan?    | [Green?](https://www.thegreenwebfoundation.org/) | Description  |
 | ------------- | ------------- | ------------- |------------------------------------------------- |------------- |
+| ![](https://galaxyorb.cloud/favicon.ico) | :us: :us: | ✔️ | ❌ | [GalaxyOrb.Cloud](https://galaxyorb.cloud) GalaxyOrb offers 20GB free nextcloud instance for limitited time, and other budget friendly options that scale up, storage uses ethereum blockchain to host, break and compile your data. |
 | ![](logos/logo_transparent.png) | :gb: :bulgaria: | ❌ | ❌ | [alfacloud.biz](https://www.alfacloud.biz) AlfaCloud offers everything you need for GDPR compliance. Using the nextcloud simplifies compliance and reduces business risk and costs. |
 | ![](logos/Cloud68.co.png) | :us: 🇬🇷 🇦🇱| ❌ | ✔️ | [Cloud68.co](https://cloud68.co) Offering ready2use Nextcloud instances with admin access, routine backups & human support from long time FLOSS contributors. Servers based in Germany. |
 | ![](logos/www.cloudu.de.png) | :de: :gb: :us: | ❌ | ✔️ | [www.cloudu.de](https://www.cloudu.de) Since 2013 we offer German-hosted cloud storage with daily external server backup for premium security. With German privacy protection. |
